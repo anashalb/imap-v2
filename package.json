@@ -1,11 +1,8 @@
-{ "name": "@anashalb/imap-v2",
+{ "name": "imap-v2",
   "version": "1.0.0",
   "author": "Anas Halbawi <anashalb@gmail.com>",
   "description": "Forked from node-imap to fix TLS socket connectivity issues. An IMAP module for node.js that makes communicating with IMAP servers easy",
   "main": "./lib/Connection",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@anashalb"
-  },
   "dependencies": {
     "utf7": ">=1.0.2"
   },
