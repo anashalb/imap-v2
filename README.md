@@ -1,6 +1,8 @@
 Description
 ===========
 
+Forked from node-imap to fix TLS socket connectivity issues, and republished.
+
 node-imap is an IMAP client module for [node.js](http://nodejs.org/).
 
 This module does not perform any magic such as auto-decoding of messages/attachments or parsing of email addresses (node-imap leaves all mail header values as-is).
