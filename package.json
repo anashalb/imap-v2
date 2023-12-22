@@ -1,5 +1,5 @@
 { "name": "imap-v2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Anas Halbawi <anashalb@gmail.com>",
   "description": "Forked from node-imap to fix TLS socket connectivity issues. An IMAP module for node.js that makes communicating with IMAP servers easy",
   "main": "./lib/Connection",
